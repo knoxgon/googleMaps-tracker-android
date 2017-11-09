@@ -1,0 +1,4 @@
+#Wed Nov 08 19:43:07 ICT 2017
+base.0=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

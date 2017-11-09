@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Volkan\.android\build-cache\e5ca660af12609a445e6f5b4b248f10c078a8d94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\Volkan\AndroidStudioProjects\Fitness360\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e650ba9014e02e5c40822d7d0752c86efbca16b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Volkan\AndroidStudioProjects\Fitness360\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49b9a205e6872badd68c95aeb799594c04c0cb27">
+        <dex dex="C:\Users\Volkan\AndroidStudioProjects\Fitness360\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c9f54bbb77a71a13bda0b86f31cddc5df773be48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Volkan\AndroidStudioProjects\Fitness360\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Volkan\AndroidStudioProjects\Fitness360\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0e5155055701e9e203ecefeca70566452f0159bf\classes.dex" />
+    </item>
+
+</items>

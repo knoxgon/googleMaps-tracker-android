@@ -1,0 +1,7 @@
+#Thu Nov 09 09:06:01 ICT 2017
+base.0=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c9f54bbb77a71a13bda0b86f31cddc5df773be48
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e5155055701e9e203ecefeca70566452f0159bf\\classes.dex
+base.1=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0e5155055701e9e203ecefeca70566452f0159bf
+file.0=C\:\\Users\\Volkan\\AndroidStudioProjects\\Fitness360\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c9f54bbb77a71a13bda0b86f31cddc5df773be48\\classes.dex
